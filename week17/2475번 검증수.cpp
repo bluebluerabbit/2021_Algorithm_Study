@@ -22,3 +22,4 @@ int main() {
     cout << tmp[strlen(tmp) - 1];
 
 }
+ 
