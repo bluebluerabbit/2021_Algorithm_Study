@@ -9,7 +9,7 @@ int main(){
 
 	int check = 0;
 
-	for (int i = 1; i < 6; i++) {
+	for (int i = 1; i < 6; i++) { 
 		cin >> s[i];
 	}
 
